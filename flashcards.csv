@@ -1,0 +1,74 @@
+Qual é a definição de Inteligência Artificial (IA) descrita como a atividade dedicada a tornar as máquinas inteligentes?,É a qualidade que permite que uma entidade funcione adequadamente e com previsão em seu ambiente.
+"De forma simplificada, a IA é uma área multidisciplinar cujo objetivo é automatizar atividades que requerem _____.",inteligência humana
+"Segundo Ricardo Cavallini, a IA representa uma mudança de _____, e não apenas incremental, por ser uma nova maneira de fazer software.",ruptura
+"Além de analisar grandes quantidades de dados, a IA pode dar ""vida nova"" a sensores antigos como _____ e _____.",microfone e câmera (áudio e vídeo)
+"Que tipo de dados, além dos estruturados, os sistemas de IA conseguem analisar, como visto no exemplo de imagens médicas e notas escritas à mão?",Dados não estruturados.
+"Qual pesquisador britânico propôs em 1950 um teste para a inteligência mecânica, hoje conhecido como Teste de Turing?",Alan Turing.
+Qual é o princípio do Teste de Turing?,"Se uma máquina for capaz de enganar um humano a pensar que ela é humana, então ela possui inteligência."
+"Quem cunhou o termo ""inteligência artificial"" em 1956?",O cientista de computação americano John McCarthy.
+Qual foi o acontecimento que marcou o início da IA como campo acadêmico em 1956?,A conferência no campus da Dartmouth College.
+"Que tipo de IA, que estamos vendo de forma mais presente com ferramentas como ChatGPT e Gemini, é especializada em criar novos conteúdos?",IA generativa.
+"O que significa a sigla LLM, que representa o núcleo de modelos como o ChatGPT?",Large Language Model (Grande Modelo de Linguagem).
+"Qual é a arquitetura de rede neural, proposta por pesquisadores do Google, que foi crucial para os avanços recentes em IAs generativas?",Transformers.
+"Dentro da arquitetura Transformer, qual técnica é usada para definir pesos e a importância de diferentes partes dos dados de entrada ao construir uma resposta?",O mecanismo de atenção (attention).
+"Qual subcampo da IA permite que os computadores entendam, interpretem e gerem linguagem humana, como fazem os assistentes de voz?",Processamento de Linguagem Natural (PLN).
+"Qual subcampo da IA permite que computadores ""vejam"" e interpretem informações visuais de imagens e vídeos?",Visão computacional.
+O aprendizado de máquina (Machine Learning) se baseia em três formas principais de aprendizado. Quais são elas?,"Supervisionado, não supervisionado e por reforço."
+"No aprendizado por _____, o algoritmo aprende recebendo indicações sobre o que é certo e o que é errado, sendo muito usado em jogos.",reforço
+Qual a principal diferença entre a IA forte (AGI) e a IA fraca (Narrow AI)?,"A IA forte teria consciência e capacidade de resolver qualquer problema intelectual humano, enquanto a IA fraca é especializada em tarefas específicas."
+Qual ferramenta de IA é especializada em integrar diferentes plataformas e criar automações de fluxos de trabalho (workflows) a partir de prompts?,Zapier.
+Qual a principal vantagem de usar a IA do Zapier para criar automações?,"Ela cria o workflow para você a partir de um prompt em linguagem natural, sem que você precise mexer diretamente na estrutura."
+"Que ferramenta de IA, descrita como ""um funcionário que pensa em overdelivery"", consegue acessar o LinkedIn para encontrar candidatos e criar um site para apresentá-los?",Manus AI.
+"A Manus AI pode executar tarefas em paralelo, como analisar currículos, buscar imóveis e criar apresentações, atuando como múltiplos _____.",agentes
+"Qual é a melhor IA para estudos, segundo o canal Hashtag Treinamentos, que permite subir fontes (PDFs, vídeos) e interagir com o conteúdo?",NotebookLM.
+"Além de responder perguntas, que outros formatos de conteúdo o NotebookLM pode gerar a partir das fontes fornecidas?","Linha do tempo, mapa mental, resumo em áudio (podcast) e cartões de estudo (flashcards)."
+"Qual a principal vantagem do NotebookLM em relação ao ChatGPT para estudos, segundo o canal T2 Educação?","Ele baseia suas respostas exclusivamente nas fontes que você fornece, evitando ""alucinações"" ou informações incorretas."
+"No contexto de IAs de linguagem, o que é um ""prompt""?","É a instrução, comando ou pergunta que você digita para solicitar uma tarefa à Inteligência Artificial."
+"Qual plataforma de IA foi usada no vídeo do canal ""Hora de Negócios"" para criar um aplicativo da Bíblia a partir de um prompt gerado pelo ChatGPT?",Lavavel (ou Lavo AI).
+"A IA generativa se refere a uma classe de algoritmos que pode criar novos conteúdos, como textos, imagens, músicas e _____.",códigos de computador
+"Segundo o canal Preguiça Artificial, qual é a principal diferença de uso entre o Gemini e o ChatGPT?",Cada IA é melhor em tarefas específicas; não existe uma IA universal que seja a melhor em tudo.
+"Qual funcionalidade do Google Gemini permite realizar uma pesquisa muito mais detalhada e profunda sobre um tema, embora leve mais tempo para ser concluída?",A pesquisa profunda (ou investigação).
+"A estrutura de prompt de cinco partes sugerida no curso de Gemini inclui: objetivo, contexto, estilo, referências e _____.",o que evitar (prompts negativos)
+"Que conceito, abordado por Karl Marx e Kate Crawford, descreve a interrupção sistemática dos ciclos ecológicos pela produção industrial?",Ruptura metabólica.
+"De acordo com Kate Crawford, a IA é, em sua essência, uma indústria _____ altamente material, que consome grandes quantidades de energia e água.",extrativa
+"O que é ""slop"", no contexto de conteúdo gerado por IA?","É um termo para descrever conteúdo de baixo esforço, como vídeos e textos produzidos em massa por IA para preencher feeds e aumentar engajamento."
+"Qual fenômeno ocorre quando modelos de IA são treinados excessivamente com seus próprios resultados, fazendo com que degenerem em ruído e percam diversidade?",Colapso do modelo (ou Model Autophagy Disorder).
+Quais são os dois países que aparecem muito à frente dos demais na corrida pelo domínio da IA?,Estados Unidos e China.
+"Por que a superioridade tecnológica em IA se reflete em poder econômico, político e militar?","Porque, com base no passado, o domínio tecnológico confere vantagens estratégicas nessas áreas."
+"No Brasil, qual lei inspirada na GDPR europeia regula a proteção de dados pessoais, sendo crucial para a transparência da IA?",A Lei Geral de Proteção de Dados Pessoais (LGPD).
+O que é uma IA transparente (ou caixa-branca)?,É uma IA cujos modelos de tomada de decisão podem ser facilmente interpretados e compreendidos por qualquer pessoa.
+Por que o uso indiscriminado de dados públicos para treinar modelos de IA pode ser problemático?,"Pode resultar em casos de plágio, violação de direitos autorais e representações enviesadas (preconceituosas)."
+"Qual a principal função da ferramenta de automação N8N, mencionada como alternativa no-code à programação em Python?","Automações, permitindo criar sequências de passos que são executadas quando um gatilho (trigger) é acionado."
+Qual linguagem de programação é considerada o ponto de partida para quem quer atuar como desenvolvedor de IA?,Python.
+Quais são algumas bibliotecas de Python fundamentais para análise de dados e machine learning?,"Pandas, NumPy e Matplotlib."
+"No contexto de IAs generativas, qual é o processo de transformar palavras em números para que a rede neural possa entendê-las?",Tokenização.
+"A parceria entre humanidade e IA, segundo a SAS, oferece oportunidades pois os algoritmos podem ver _____ e _____ que escapam aos humanos.",relacionamentos e padrões
+Qual é um dos principais desafios éticos da IA relacionado aos dados de treinamento?,"A presença de viés (preconceito) nos dados, que é reforçado pelo algoritmo, gerando modelos preconceituosos."
+"Na linha do tempo da IA, o que os pesquisadores Warren McCulloch e Walter Pitts apresentaram em 1943?","O modelo de neurônios artificiais, considerado a primeira inteligência artificial."
+"O que a empresa ""aLu"" (mencionada por Breno Perrucho) oferece como uma alternativa à compra de computadores para empresas?","O aluguel de computadores e equipamentos, liberando o caixa da empresa para investimentos em crescimento."
+O que é uma rede neural artificial?,Um tipo de machine learning composto de unidades interconectadas (neurônios) que processam informações ao responder a entradas externas.
+O que é Deep Learning (aprendizado profundo)?,Um subcampo do machine learning que utiliza grandes redes neurais com muitas camadas para aprender padrões complexos em grandes quantidades de dados.
+"Qual a funcionalidade de ""instruções personalizadas"" (custom instructions) lançada para o ChatGPT em julho de 2023?",Permite que o usuário informe ao ChatGPT o que ele deve saber sobre si e como deve formatar as respostas.
+"O que foi a multimodalidade, lançada para o ChatGPT em setembro de 2023?",A capacidade de o modelo processar e interagir com visão (imagens) e áudio.
+"O que são os ""GPTs"", lançados em novembro de 2023 pela OpenAI?","São versões personalizadas do ChatGPT, que podem ser configuradas para tarefas específicas com instruções e dados próprios."
+"Qual a função de ""memória"", lançada para o ChatGPT em fevereiro de 2024?",Permite que o ChatGPT memorize preferências e informações importantes sobre o usuário ao longo de múltiplas conversas.
+"Qual foi a principal consequência da invenção da perspectiva linear na Renascença, segundo Kate Crawford?","Mudou o centro de poder de Deus para o olho humano individual, tornando o mundo mensurável, controlável e comercializável."
+"De acordo com Fernando Mesquita, por que o uso de IA para estudar não é mais opcional?","Porque se tornou uma ferramenta poderosa que pode acelerar drasticamente o aprendizado, e quem não a utiliza fica em desvantagem."
+Como a IA pode ajudar um estudante a entender questões que errou?,Analisando as questões erradas e identificando os tópicos específicos que o estudante precisa saber para respondê-las corretamente.
+"De acordo com o canal Asimov Academy, o hype da IA que começou em 2022 está majoritariamente focado em qual tipo de capacidade?","Capacidades generativas (gerar texto, imagem, vídeo, áudio)."
+"O que o ""problema da parada"" (halting problem), formulado por Alan Turing, demonstra sobre a computação?","Demonstra que existem problemas fundamentalmente indecidíveis, ou seja, coisas que nenhum computador, por mais poderoso que seja, conseguirá resolver."
+"Por que, segundo a análise de Schyber, uma ""máquina memorizadora"" não conseguiria passar no Teste de Turing na nossa realidade?",Porque a quantidade de possibilidades em uma conversa humana cresce tão explosivamente que nem o universo inteiro teria capacidade para armazenar todas as respostas.
+O que é a máquina universal de Turing?,É um conceito teórico de uma máquina que pode ser programada para simular qualquer outro algoritmo ou máquina de computação.
+"No Brasil, qual foi a quantidade de estudos sobre Inteligência Artificial produzidos entre 2019 e 2023, segundo relatório da Clarivate?","6,3 mil estudos."
+"Segundo o artigo da Anhanguera, como a IA possibilita a personalização do aprendizado?","Adaptando os materiais e métodos de ensino às necessidades individuais de cada aluno, identificando seus pontos fortes e fracos em tempo real."
+"De acordo com o artigo da TOTVS, o que são algoritmos?",São sequências de instruções lógicas utilizadas para resolver problemas ou realizar tarefas específicas.
+Qual o principal papel do Big Data no funcionamento da IA?,"É o conjunto de dados em larga escala que alimenta os sistemas de IA, permitindo que eles aprendam e identifiquem padrões."
+A IA vai acabar com os empregos?,"Em geral, não. Ela tende a mudar o cenário, eliminando algumas tarefas, mas gerando novas demandas e oportunidades."
+"A era da _____ quântica começou, segundo um artigo da Ciência Hoje, com a construção de um chip que realizou uma tarefa impossível para computadores clássicos.",supremacia
+"Na corrida de hardware de IA para 2026, qual a principal diferença de estratégia entre Nvidia e AMD, segundo o relatório ""The Multi-Dimensional Evolution of IA""?","A Nvidia está usando processos de 3nm refinados (TSMC N3) para seu chip Rubin, enquanto a AMD está buscando o processo de ponta de 2nm (TSMC N2) para o MI450."
+"Qual é a nova classe de algoritmos de IA, mencionada no relatório de 2025, que se concentra em fluxos de trabalho orquestrados em vez de agentes totalmente autônomos?",Agentic workflows (fluxos de trabalho agênticos).
+"Por que a mudança para ""agentic workflows"" foi necessária no final de 2025?","Porque agentes totalmente autônomos se mostraram imprevisíveis e ineficientes para implementações empresariais, com baixas taxas de sucesso."
+"Que chip da Apple, lançado em outubro de 2025, representou um salto significativo no desempenho de IA em dispositivos de consumo?",O chip M5.
+"O que é o ""paradoxo de Jevons"", usado por Kate Crawford para argumentar contra a ideia de que a eficiência da IA reduzirá o consumo de recursos?","É o princípio de que ganhos de eficiência em uma tecnologia levam a um aumento geral do seu uso, superando a economia de recursos por unidade."
+A IA é utilizada nos esportes para capturar imagens de partidas e fornecer relatórios aos treinadores sobre otimização de posições e _____.,estratégias em campo
+"Segundo o relatório da CAPES, o Brasil está entre as _____ nações com mais publicações sobre IA entre 2019 e 2023.",20
